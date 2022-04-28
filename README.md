@@ -51,7 +51,7 @@ Toujours dans le terminal exécuter la commande suivante
 pip install -r requirements.txt
 ```
 
-**3. Lancer l'application**
+**4. Lancer l'application**
 
 Toujours dans le terminal exécuter esa commandes suivantes
 
@@ -60,8 +60,6 @@ Toujours dans le terminal exécuter esa commandes suivantes
 ```bash
 python app.py
 ```
-
-Ouvrer un navigateur et allez sur <http://127.0.0.1:5000>
 
 ##### Avec docker
 
@@ -78,3 +76,5 @@ docker run -p 5000:5000 test-technique-prefect-memory
 sudo docker build -t test-technique-prefect-memory .
 sudo docker run -p 5000:5000 test-technique-prefect-memory
 ```
+
+**5. Ouvrer un navigateur et aller sur <http://127.0.0.1:5000>***
