@@ -77,4 +77,4 @@ sudo docker build -t test-technique-prefect-memory .
 sudo docker run -p 5000:5000 test-technique-prefect-memory
 ```
 
-**5. Ouvrer un navigateur et aller sur <http://127.0.0.1:5000>***
+**5. Ouvrer un navigateur et aller sur <http://127.0.0.1:5000>**
