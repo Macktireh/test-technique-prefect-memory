@@ -42,7 +42,7 @@ Activer l'environnement virtual:
 source .venv/bin/activate
 ```
 
-**3. Activer l'environnement virtual**
+**3. Installation des dépendances python**
 
 Toujours dans le terminal exécuter la commande suivante
 
