@@ -7,6 +7,8 @@ API Restful JSON en Python autour de l'analyse de texte. L'API doit permettre à
 
 ## Tester le l'application
 
+Tout d'abord assurez vous d'avoir une connexion internet et installer python sur votre machine.
+
 **1. Récuperer le projet**
 
 Ouvrer un terminal et exécuter les commandes suivantes:
