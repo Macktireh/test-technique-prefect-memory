@@ -63,7 +63,7 @@ python app.py
 
 Ouvrer un navigateur et allez sur <http://127.0.0.1:5000>
 
-### Avec docker
+##### Avec docker
 
 ***Pour Windows et Mac os :***
 
